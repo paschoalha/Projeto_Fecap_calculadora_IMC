@@ -1,6 +1,6 @@
 # Informações do aluno
-- Nome: Gabriel Debastiani Davanço
-- RA: 24025899
+- Nome: Gabriel Higobassi Paschoal
+- RA: 21010656
 # Projeto_Fecap_calculadora_IMC
 Este é um aplicativo Android desenvolvido em Java no Android Studio, que calcula o Índice de Massa Corporal (IMC) e fornece um feedback motivacional baseado na classificação do usuário. O aplicativo é ideal para quem deseja acompanhar sua saúde de forma simples e intuitiva.
 # Descrição do processo de desenvolvimento
