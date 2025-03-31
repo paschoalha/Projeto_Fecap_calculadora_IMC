@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--cores principais-->
+    <color name="appColorFundoPrincipal">#FFFFFF</color>
+    <color name="appColorTituloDestaque">#006341</color>
+    <color name="appColorBotao">#00A859</color>
+    <color name="appColorTexto">#4D4D4D</color>
+    <color name="appColorBordas">#B3B3B3</color>
+
+
+    <!--texto inicial-->
+    <string name= "appT1Titulo">BEM VINDO</string>
+
+    <!--segunda tela-->
+    <string name="appT1Peso">Peso:</string>
+    <string name="appT1Altura">Altura:</string>
+
+<!--demais telas-->
+    <string name="Text1">Sua altura é:</string>
+    <string name="Text2">Seu peso é:</string>
+    <string name="Text3">seu IMC:</string>
+    <string name="Text4">o que te indica em:</string>
+
+    <!--botões-->
+    <string name= "appT2BtnCalcular">Calcular IMC</string>
+    <string name= "appT2BtnLimpar">Limpar</string>
+    <string name= "appT2BtnFechar">Fechar</string>
+
+    <!--cores dos niveis do IMC-->
+    <color name="colorTelaAbaixoDoPeso">#234E55</color>
+    <color name="colorTelaPesoNormal">#4A7F66</color>
+    <color name="colorTelaSobrepeso">#DE8E3F</color>
+    <color name="colorTelaObesidade1">#D4693A</color>
+    <color name="colorTelaObesidade2">#CB5D39</color>
+    <color name="colorTelaObesidade3">#9A4139</color>
+<!--Texto das classificações-->
+    <string name="txtAbaixoDoPeso">ABAIXO DO PESO</string>
+    <string name="txtPesoNormal">PESO NORMAL</string>
+    <string name="txtSobrepeso">SOBRE PESO</string>
+    <string name="txtObesidade1">OBESIDADE I</string>
+    <string name="txtObesidade2">OBESIDADE II</string>
+    <string name="txtObesidade3">OBESIDADE III</string>
+
+
+</resources>
